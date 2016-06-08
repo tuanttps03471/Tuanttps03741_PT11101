@@ -1,0 +1,5 @@
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\bin\Debug\Tuanttps03741_PT11101.exe.config
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.csprojResolveAssemblyReference.cache
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.Form1.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.Properties.Resources.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.csproj.GenerateResource.Cache
